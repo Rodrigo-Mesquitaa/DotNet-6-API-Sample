@@ -4,15 +4,9 @@ Projeto de API DotNet 6 com metodos Crud.
 
 # DOT. NET. 6.0 WebApi Sample with HATEOAS, Versioning & Swagger
 
-Neste repositório, quero dar um ponto de partida simples sobre como construir uma WebAPI com DOT. NET 6.0.
+Neste repositÃ³rio, quero dar um ponto de partida simples sobre como construir uma WebAPI com DOT. NET 6.0.
 
-Este repositório contém um controlador que está lidando com FoodItems. Você pode GET / POST / PUT / PATCH e DELETE-los.
-
-
-## Versions
-
- http://localhost:29435/swagger 
-
+Este repositÃ³rio contÃ©m um controlador que estÃ¡ lidando com FoodItems. VocÃª pode GET / POST / PUT / PATCH e DELETE-los.
 
 
 ## GET all Foods
